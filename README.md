@@ -31,3 +31,8 @@ Plataforma digital para la distribución y venta de material fotográfico y cine
 ## Contacto e Informes
 - **WhatsApp**: 311 847 0860
 - **Ubicación**: San Pedro Lagunillas, Nayarit
+
+## Desarrollo
+- La interfaz está construida con **React** y Vite; Hono conserva las rutas de la API.
+- `npm run dev` inicia el servidor local.
+- `npm run build` compila el cliente React y el Worker de Cloudflare Pages.
