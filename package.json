@@ -1,5 +1,5 @@
 {
-  "name": "webapp",
+  "name": "descargador",
   "type": "module",
   "scripts": {
     "dev": "vite",
